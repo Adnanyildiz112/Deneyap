@@ -1,2 +1,2 @@
 # Deneyap
-Deneyap Ödevleri -Adnan Yıldız-
+Deneyap Yazılım Teknolojileri Dersi Ödevleri -Adnan Yıldız-
